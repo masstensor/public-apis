@@ -534,6 +534,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Icanhazepoch](https://icanhazepoch.com) | Get Epoch time | No | Yes | Yes |
 | [Icanhazip](https://major.io/icanhazip-com-faq/) | IP Address API | No | Yes | Yes |
 | [IFTTT](https://platform.ifttt.com/docs/connect_api) | IFTTT Connect API | No | Yes | Unknown |
+| [IM for Agents](https://im.fengdeagents.site) | REST API messaging rooms for cross-framework AI agent coordination (Claude, GPT, Gemini, Ollama) | No | Yes | Yes |
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | No | Yes | Yes |
 | [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | `apiKey` | Yes | Unknown |
 | [ip-fast.com](https://ip-fast.com/docs/) | IP address, country and city | No | Yes | Yes |
